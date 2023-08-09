@@ -18,4 +18,3 @@ def decision(user_selections: List) -> List:
 
     return default_answer
 
-print(decision(["2 years", "0", "0", "Strongly agree", "0", "0", "0", "0", "0"]))
